@@ -89,7 +89,6 @@ class CoffeeCartTest(BaseCase):
         self.assert_text("Thanks for your purchase.", "#app .success")
 ```
 
-
 --------
 
 <details>
